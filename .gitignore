@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ### DataStax Secure Bundle ###
-/src/main/resources/secure-connect-better-reads.zip
+/src/main/resources/secure-connect.zip
